@@ -1,0 +1,6 @@
+folder_in: /home/user/tst/file
+folder_out: /home/user/tst/out
+folder_ext: /home/user/tst/ext
+folder_badarx: /home/user/tst/badarx
+count_files: 4
+size_file: 1M
